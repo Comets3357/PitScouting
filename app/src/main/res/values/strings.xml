@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PitScoutingApp2023</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="qr_code">qr_code</string>
+</resources>
