@@ -252,7 +252,7 @@
 309,RECHARGED
 311,Red Jammers
 312,HeatWave
-313,The Bionic Zebras
+313,Demeter
 314,The Megatron Oracles
 315,Team 315
 316,LUNATECS
@@ -347,6 +347,7 @@
 425,Spartans
 426,Zombie Apocalypse Counter Task Force
 427,LANCE-A-LOT
+428,RRIT
 433,Firebirds
 434,Kraken
 435,Robodogs
@@ -447,13 +448,13 @@
 561,Camdenton 4-H LASER HWE #4
 562,SPARK - Students Pursuing Applied Robotics Knowledge
 563,Thrashers
-564,Longwood Robotics
+564,Longwood RoboLions
 565,Camdenton 4-H LASER ORI #3
 566,Hot Wired 566
 568,Nerds of the North
 569,Rambots 569
 570,Team Phoenix
-571,Team Paragon
+571,Team Paragon Robotics
 573,Mech Warriors
 574,Team 574
 575,Frankfort First Lego League #1
@@ -536,7 +537,7 @@
 659,Team 659
 660,Dragons
 662,Rocky Mountain Robotics
-663,Robonauts
+663,Power Sharks
 664,Team 664
 665,Motor Monkeys
 666,The TorMentors
@@ -584,6 +585,7 @@
 746,Gearheads 746
 747,Flight Crew
 748,Kingsville CavalGears
+749,Ctrl V
 750,TechnoTide
 751,barn2robotics
 752,The Chargers
@@ -738,7 +740,7 @@
 950,Team 950
 953,Team Illuminati
 954,Scorpion Robotics
-955,CV Robotics
+955,Ctrl C
 956,Eagle Cybertechnology
 957,SWARM - South and West Albany Robotics Maniacs
 959,Team 959
@@ -1254,7 +1256,7 @@
 1552,CougarBots
 1553,KC Robotics Team
 1554,Oceanside Kraken
-1555,Cryofrost
+1555,CryoFrost
 1556,Robo Raiders
 1557,12 Volt Bolt
 1558,ACCIdent
@@ -1498,8 +1500,9 @@
 1816,"""The Green Machine"""
 1817,Llano Estacado RoboRaiders
 1818,Team Talos
-1819,Quack Pack
+1819,The Quacken
 1820,Havoc
+1822,Electric Calamari
 1823,The New Victorians
 1824,1824
 1825,The Cyborgs
@@ -1919,7 +1922,7 @@
 2342,Team Phoenix
 2343,Technohorns
 2344,The Saunders Droid Factory
-2345,Animal Control
+2345,Kearnage
 2346,Cel-Techs
 2347,Trial and Error
 2348,Mechahunes
@@ -2030,7 +2033,7 @@
 2462,Digi Bots
 2463,The Siege
 2464,Trojans
-2465,Kauaibots
+2465,KauaiBots
 2466,Menehune Robots
 2467,Sabertron
 2468,Team Appreciate
@@ -2222,7 +2225,7 @@
 2675,ABCTech
 2676,Ecorse Robo Raiders
 2678,Brauder
-2679,Tiger Team
+2679,Atlantis
 2680,Vex Minas
 2681,Lady G-House Pirates
 2682,Boneyard Robotics 2682
@@ -2239,7 +2242,7 @@
 2707,Viking Robotics
 2708,Lake Effect Robotics
 2709,Iron Wolves
-2710,JetStream 2710
+2710,JetStream
 2711,Centaurus Robotics
 2712,Power Surge 4-H Robotics
 2713,Red Hawk Robotics
@@ -2387,7 +2390,7 @@
 2924,2924 Murphy's Lawyers
 2925,North Central Tech Center
 2926,Robo Sparks
-2927,GKHS Pi Rho Techs
+2927,NEST Robotics
 2928,Viking Robotics
 2929,Emeral Ridge JAGBOTS
 2930,Sonic Squirrels
@@ -2505,7 +2508,7 @@
 3055,Furious George
 3056,Pirates
 3057,MHS Jaquers
-3058,AnnDroids
+3058,ANNDROIDS
 3059,Riverside Envirobotics
 3060,The Narcoleptic Doxins
 3061,Huskie Robotics
@@ -2707,7 +2710,7 @@
 3275,The Regulators
 3276,TOOLCATS
 3277,ProDigi
-3278,QWERTY Robotics
+3278,The Electric Lakers
 3279,Spingarn Senior High School
 3280,Rhode Rebels
 3281,VBots
@@ -2744,7 +2747,7 @@
 3315,Mountaineers
 3316,D-Bug
 3317,Q & E Robotics
-3318,TBD
+3318,RoboDragons
 3319,Galactic Geeks Robotics
 3320,Miracles & Machines (M&Ms)
 3321,Superior Robotics
@@ -2770,6 +2773,7 @@
 3344,Space Dragons
 3345,Metal Jackets
 3346,Kamikaze Comets
+3349,Static
 3350,T-BOTS
 3351,Ratchet
 3352,3352 Flaming Monkeys 4-H Robotics Club
@@ -2806,7 +2810,7 @@
 3385,RoboticST
 3386,Tornades
 3387,Les Aigles d'Or
-3388,Flash
+3388,Flash in memory of Margarita Gusak
 3389,TEC Tigers
 3390,ANATOLIAN EAGLEBOTS
 3392,T-Robots
@@ -3009,7 +3013,7 @@
 3620,Average Joes
 3621,Rocket Robotics
 3622,r
-3623,TerrorBots
+3623,The Robomingos
 3624,ThunderColts
 3625,Some Assembly Required
 3626,Parish Robotics
@@ -3148,7 +3152,7 @@
 3764,Guardian of Greene
 3765,The TerraBots
 3766,ort
-3767,Titans
+3767,TC Titans
 3768,ASTRO DOGS
 3769,Droids
 3770,BlitzCreek
@@ -3351,7 +3355,7 @@
 4006,CIBorgs
 4007,Les Cactus
 4008,Theodore Roosevelt's Disco Haircut
-4009,Denfeld DNA Robotics
+4009,Duluth DNA Robotics
 4010,PrepaTec - Nautilus
 4011,πρbοtics   (Pi Robotics)
 4012,Bad News Bots
@@ -3444,10 +3448,10 @@
 4101,St. Francis High School
 4102,Spartans
 4103,Roborioles
-4104,Error-4104
+4104,Cheney Circuit Cyclone-4104
 4105,ChiefBotsFTS
 4106,Bots of Prey
-4107,Team Storm
+4107,Team Storm 4107
 4108,Randolph Robotics
 4109,Reynolds Robo Raiders
 4110,DEEP SPACE 9'ers
@@ -3483,7 +3487,7 @@
 4140,WIRED
 4141,Monarch Robotics
 4142,Shorebots
-4143,MARS/ WARS
+4143,MARS/WARS
 4144,Semi con-duck-tors
 4145,WorBots 4145
 4146,Sabercats
@@ -3901,7 +3905,7 @@
 4600,Tech Titans
 4601,Circuit Birds
 4602,Calgary First Nation team
-4603,Leones Francés - Peñoles
+4603,Forza One - Peñoles
 4604,Intimitrons from Area 51
 4605,Calgary Ismaili Team
 4606,"Team 4606, ""Larry"""
@@ -3916,7 +3920,7 @@
 4615,Steel Trojans
 4616,Team Pharaohs
 4617,DAUN
-4618,Brave Cardinals
+4618,Newman Robotics
 4619,HawkBots
 4620,Tec de Monterrey Robotics
 4621,Yotta Robota
@@ -3991,7 +3995,7 @@
 4690,WD-40
 4691,Falcons
 4692,Metal Mallards
-4693,Axiomatic Aftermath
+4693,Talk Nerdy to Me
 4694,Atomic Armadillos
 4695,Chowchilla Robotics
 4696,RoboAzTechs
@@ -4157,6 +4161,7 @@
 4858,Leopards
 4859,The CyBears
 4860,Salesian Ironmen
+4861,Beastbots
 4900,Magic Island Robotics
 4901,Garnet Squadron
 4902,The Wildebots
@@ -4454,7 +4459,7 @@
 5194,Gobles Voltage
 5195,The Renegade
 5196,Breaking Bot
-5197,DCP @ NW
+5197,Northwestern
 5198,Knight Tech
 5199,Robot Dolphins From Outer Space
 5200,Alchesay Falcon
@@ -4593,7 +4598,7 @@
 5335,Falcons
 5336,Longhorn
 5337,Real Steel
-5338,RoboLoCo
+5338,ACL RoboLoCo
 5339,Hurricanes
 5340,FAIRmingos
 5341,The Cardinals
@@ -4628,7 +4633,7 @@
 5418,The Sonic Screwdrivers
 5419,Berkelium
 5420,Velocity
-5421,Birch Bots
+5421,BirchBots
 5422,Stormgears FRC
 5423,HopCo  Robo
 5424,Rogue Robots
@@ -4669,7 +4674,7 @@
 5459,Ipswich TIGERS
 5460,Strike Zone
 5461,Victorian Engineered Robotic Nation or V.E.R.N.
-5462,2PawR (2PawRobotics)
+5462,2PawR (2Paw Robotics)
 5463,Iron Eagles
 5464,Bluejacket Robotics
 5465,Binary Bots
@@ -4721,7 +4726,7 @@
 5511,Cortechs Robotics
 5512,Pizza Mecánica
 5513,Monroe Robotics
-5514,LCC MavBots
+5514,MavBots
 5515,Blue Power Robotics
 5516,Iron Maple
 5517,The Engineers on Fire
@@ -4803,7 +4808,7 @@
 5593,Devil Robotics
 5594,GI Joz
 5595,NRHS TigerBytes
-5596,Wolverines
+5596,Wolverine Robotics
 5597,RoboMaidens
 5598,sjmp
 5599,The Sentinels
@@ -4845,7 +4850,7 @@
 5635,Demacia
 5636,Moona
 5637,North Community High School Polars
-5638,LQPV Robotics
+5638,JukeBots
 5639,Loose Wires
 5640,Pegasus Robotics
 5641,Byron Robotics
@@ -4890,7 +4895,7 @@
 5680,KYS Robotics
 5681,Dragonbots
 5682,Equus Engineering
-5683,Riverside Robotics
+5683,R.A.V.E.N.
 5684,Iron Mechs
 5685,Robo Terriers
 5686,Wirecats
@@ -5024,7 +5029,7 @@
 5825,Amherst Robotics
 5826,Avis Automata
 5827,Code Purple
-5828,Westover Robotics
+5828,Flying Riots
 5829,AwtyBots
 5830,LIFE Engineering
 5831,Revolution Maker
@@ -5070,7 +5075,7 @@
 5871,Chickadees
 5872,WiredCats
 5873,Farmersville Robotics
-5874,Tecmilenio Border Bots
+5874,Prepa Tecmilenio Border Bots
 5875,ICE Cubed
 5876,ARTEMIS
 5877,Mechalodons
@@ -5128,8 +5133,8 @@
 5929,Raider Robotics
 5930,Lunar Kitties
 5931,Bots of Prey
-5932,5932 - Prepa Tecmilenio - Quetzales
-5933,NASA JudgeMent Call
+5932,Prepa Tecmilenio - Quetzales
+5933,JudgeMent Call
 5934,Crowbotics
 5935,Tech Tigers
 5936,TigerBots
@@ -5213,7 +5218,7 @@
 6014,ARC
 6015,Juicy Bots
 6016,Tiger Robotics
-6017,PrepaTec - Cyberius + Abtomat + Rockin Robots
+6017,PrepaTec - Cyberius
 6018,TICK
 6019,Metabots
 6020,John Glenn Robotics
@@ -5272,7 +5277,7 @@
 6073,Cav-Bots
 6074,RoboBucks
 6075,Leland Zebrotics
-6076,Mustang Mechanica
+6076,ReVamp
 6077,Wiking Kujon
 6078,RoboRams
 6079,JET SET
@@ -5292,7 +5297,7 @@
 6093,Unplugged
 6094,Manic Mechanics
 6095,PARDUX
-6096,UPSM Cobras
+6096,UPSM Cobrots
 6097,Botcats
 6098,bIrobot
 6099,Knight Riders
@@ -5382,7 +5387,7 @@
 6183,RIGS - Robotics Inspired Greenland Students
 6184,Capital City Chaotic Coders
 6185,TV Patriots
-6186,Hope BotCats1
+6186,Hope BotCats
 6187,Narrabri High School- Kaputar Klockworks
 6188,Sting Robotics
 6189,Cyber Raiders
@@ -5419,7 +5424,7 @@
 6220,The Golden Griffins
 6221,Vandals
 6222,Flying Tigers
-6223,Arsenal Engineering
+6223,Arsenal of Engineering
 6224,Saint Dominators
 6225,SLC Roarin' Robotics
 6226,Blue Devils
@@ -5444,7 +5449,7 @@
 6245,Innovos Robotics
 6246,Union Knight Robotics
 6248,Millbrook High School
-6300,Northwood School Robotics
+6300,The Northwoodians
 6301,Nerointellect-sim Engineering & Robot Design Soiree   N.E.R.D.S.
 6302,Greeneville High School Robotics
 6303,Citadel
@@ -5573,9 +5578,9 @@
 6429,4th Dimension
 6430,Kalsedon
 6431,NoktaParantez
-6432,St Cathodes
+6432,Valkyries
 6433,HZ4Z
-6434,Bossley Park High School
+6434,Bossley Park High School Wolfgang
 6435,Jetson's Robotics
 6436,PARS ROBOTICS
 6437,The Pacific Quakers
@@ -5804,7 +5809,7 @@
 6662,FalconX
 6663,Kamikaze Krew
 6664,LADYBOTS
-6665,Nuns and Bolts
+6665,C-Otters
 6666,Hephaestus
 6667,STEM Clippers
 6668,Scorpion
@@ -5844,7 +5849,7 @@
 6703,Prince George Secondary School Robotics Club
 6704,Mid Pacific Owl Robotics
 6705,WildCat 5e
-6706,GOLEM
+6706,Golem
 6707,RCW Jaguar Robosapiens
 6708,Lobos Conalep
 6709,Spudinc Big Lake Robotics
@@ -5911,7 +5916,7 @@
 6802,Mean Caimans
 6803,HAI-Panda
 6804,Team Wolfpack
-6805,Cyber Jays
+6805,CP4GP
 6806,Mineola Wild Reds
 6807,REAL Robotics
 6808,William Tennent Robotics
@@ -6068,7 +6073,7 @@
 6959,Organized Chaos
 6960,The Rusty Huskies
 6961,SIbots
-6962,RobotX
+6962,Antares
 6963,Blood Sweat and Gears
 6964,BearBots
 6965,Tecmilenio XibalBots 6965
@@ -6139,7 +6144,7 @@
 7030,The ROBOlympians
 7031,Duanesburg Jr./Sr. High School
 7032,Raptors
-7033,Roosters
+7033,Roosters 7033
 7034,2B Determined
 7035,MEF Thunders
 7036,The RoarBots
@@ -6229,7 +6234,7 @@
 7124,8-bit Destroyers - Cranebrook HS
 7125,Tigerbotics
 7126,Atom.OS
-7127,LongMetal
+7127,LongMetal Robotics
 7128,XLR8
 7129,Pilbara Protons
 7130,Future Shock
@@ -6238,7 +6243,7 @@
 7133,STEAM Makers
 7134,rOctopus
 7135,System Reset
-7136,Thistletown Scot Bots
+7136,Twisted Frames
 7137,Project 212
 7138,Wing It
 7139,AERO
@@ -6386,14 +6391,14 @@
 7282,Semia United 1
 7283,Semia United 2
 7284,Semia United 3
-7285,Beşiktaş Rsports
+7285,Sneaky Snakes
 7286,Enigma
 7287,Esquimalt Atom Smashers
 7288,NOMMA D3V1LB0TS
 7289,Blue Eagles
 7290,TARHUNDA
 7291,TYANA - NİĞDE GAZOZU
-7292,HİTİT ANGELS
+7292,HİTTİTE ROBOTİCS TEAM (HRT)
 7293,COTANAK ROBOTICS
 7294,RoboCirak
 7295,SPECTRUM
@@ -6473,10 +6478,10 @@
 7438,Brain Busters
 7439,Qubit Robotics
 7440,Robo Lions (FRC)
-7441,Lancer EVO
+7441,EVO Robotics
 7442,Jaguar Robotics
 7443,Jag-Wires
-7444,Moon Star Robotics
+7444,MOON STAR ROBOTICS
 7445,Garage Robotics
 7446,S.E.A. Monsters
 7447,Rōnin Robotics
@@ -6562,7 +6567,7 @@
 7527,Kaohsiung power
 7528,Nuts and Bolts
 7529,Mulan
-7530,Brotherhood of Steel
+7530,B.O.S. Robotics
 7531,Servos Strike Back
 7532,Gophertronics
 7533,OSO-TECH
@@ -6571,7 +6576,7 @@
 7536,ANKA ROBOTICS
 7537,Thunderbots
 7538,Metal Mountain
-7539,Elev8
+7539,Dhirubhai Ambani International School BKC MUMBAI GST- 27AAATJ1117D2Z7
 7540,Timberwolf Robotics
 7541,Maple River Robotics
 7542,Entel Foreign language school
@@ -6634,7 +6639,7 @@
 7599,Blue Pride
 7600,VORTEX
 7601,Iron Phoenix
-7602,Spartronics
+7602,Agri-bots
 7603,VESPA ROBOTICS #7603 - Bill Hogarth Secondary School
 7604,Sickle and Hammer
 7605,ASTRO
@@ -6703,7 +6708,7 @@
 7669,Techno R4v7ns - Peñoles
 7670,Highlanders
 7671,Fire Hazard
-7672,SCORPIONS
+7672,SCORPIONS ROBOTICS
 7673,Formosan Sika
 7674,RaiderBots
 7675,Spark Guardians
@@ -6963,7 +6968,7 @@
 8021,Panther Robotics
 8022,Raging Hawk Robotics
 8023,LRTC Androscoggin Argonauts
-8024,Sparta Robotans
+8024,Robotans
 8025,Navigator Robotics
 8026,Tennessee Robotics Club
 8027,Not the Droids You Are Looking For
@@ -7066,7 +7071,7 @@
 8124,BearBots
 8125,Artnox Robotic
 8126,Control Freaks
-8127,Team RaByte
+8127,Team Rabyte
 8128,ACE INNOVATORS
 8129,ZZRT
 8130,Absegami Robotics
@@ -7234,7 +7239,7 @@
 8297,WIHI Robo Wolves
 8298,Mighty Morphing Banana Slugs
 8299,Techno Falcons
-8300,Lumen Christi Titans
+8300,Titan Robotics
 8301,Sparks
 8302,Ni-Tro
 8303,G0LDEN_GAT0RS
@@ -7321,7 +7326,7 @@
 8384,The Internationals
 8385,Metal Madness
 8386,Th3_IRON_G0@+$
-8387,The Thingy Thing Team
+8387,MECH Mavericks
 8388,West Mesquite Robotics 1
 8389,Team Mustang
 8390,Panthers
@@ -7361,7 +7366,7 @@
 8424,Tractor Technicians Next Gen
 8425,Happy Rock Brave Bots
 8426,Automated Amphibians
-8427,Robo Ravens
+8427,Protobots
 8428,The Outlaws
 8429,Valence Robotics
 8430,The Hatch Batch
@@ -7380,7 +7385,7 @@
 8514,Junior Squirrels
 8515,Photon
 8516,Wired Up
-8517,E-Ville Bounty Hunters
+8517,Bounty Hunters
 8518,Ripple Robotics
 8519,Iron Eagles
 8521,CyberLions
@@ -7429,7 +7434,7 @@
 8567,Team Ultraviolet
 8568,Cyber Seven
 8569,Zhonghe
-8570,Binary-Bolts
+8570,Binary-Bolts Aditya Birla World Academy
 8571,Enignet_0111
 8572,Tech Inheritors of Al Khwarizmi
 8573,Rogue-Rangers LEGACY
@@ -7471,7 +7476,7 @@
 8610,Lanier Voks
 8611,Cyber Patriots
 8612,Calvin Christian Robotics
-8613,Barker RedBbacks
+8613,Barker Greybacks
 8614,Rivet & Rev It!
 8615,SAZANKA Robotics
 8616,Mad Engineers BIS
@@ -7529,7 +7534,7 @@
 8734,Prepa Tecmilenio - BATS
 8735,Spartans300
 8736,The Mechanisms
-8737,Rocket Rampage
+8737,Rocket Rampage#8737
 8738,Slice
 8739,Redhawk Robotics
 8740,Prepa Tecmilenio - Quantum Force
@@ -7540,7 +7545,7 @@
 8745,RoBeagles
 8746,Knights
 8747,BLACK SEA'S WARRIORS
-8748,Prepa Tecmilenio- DEROS
+8748,Prepa Tecmilenio DEROS
 8749,Farmersville  Robotics
 8750,Tarpontron1cs
 8751,Miramonte Robotics Team
@@ -7548,29 +7553,29 @@
 8753,Spectre
 8754,Meister Robotics
 8755,OrcaBots
-8756,Magic Valley Logic Control Sponsored by NASA
+8756,Magic Valley Logic Control
 8757,GeodeBots
 8758,Tar-Robo Turtles
 8759,ARPEX
 8760,SOUND OF DIDYMA 1
 8761,AHS Tiger8761
-8762,Anemurium Robotics Team
+8762,Yücelen Foundation Robotics Team
 8763,Technical area
 8764,Thunder Robotics
 8765,Parallel Units
-8766,Panther Robotics
+8766,The Black Machine
 8767,Dark Horse Robotics
 8768,CTEC Titans
 8769,G.O.R.T.s
 8770,FireBolts
 8771,PioTech
-8772,Culinary Processing Unit
+8772,Magic City Wizards
 8773,Robo Rams1
 8774,REST Robotics
 8775,Creekside
-8776,Prepa Tecmilenio - THE NORTHERN LIZARDS
+8776,Prepa Tecmilenio - DARK TECH
 8777,SafranTech
-8778,HSUwerx
+8778,HSUWerx
 8779,Messmer High School Bishops
 8780,TED ROBOTICS
 8781,ANTALYAMTAL ROBOT KLUBU
@@ -7596,7 +7601,7 @@
 8801,The MidKnight Inventors
 8802,Milwaukee United
 8803,MechaMarines
-8804,Cyber Bears
+8804,Cyber Bears Robotics
 8805,NKST36
 8806,Our Lady of Providence Dream League
 8807,SCREW IT
@@ -7619,7 +7624,7 @@
 8824,Wapello Royalty
 8825,Team Eagle Eyed
 8826,Parkway Eagles
-8827,Edinburg North CougarTrons
+8827,CougarTrons
 8828,EAL Robotics
 8829,Cemberlitas
 8830,Denby Tars Robotics Team
@@ -7661,7 +7666,7 @@
 8869,TISB TROJANS
 8870,RedCards
 8871,Saber Dynamics
-8872,JJSJF Gwinnett-NSBE Jr. FLL
+8872,JJSJF Gwinnett-NSBE Jr. FRC
 8873,Rockefeller Robotics
 8874,The Cybirds
 8875,Dangerous Minds
@@ -7700,10 +7705,10 @@
 9009,KMC Robotics
 9010,CrabBots
 9011,Orangeburg Robotics
-9012,Waffles
+9012,Team Waffles
 9014,Vulcan Mechanics
 9015,Questionable Engineering
-9016,Syosset Braves Robotics
+9016,Syosset Robotics
 9018,ElRobotiKO
 9019,Ko'olaupoko
 9020,Galatasaray Robotics
@@ -7711,7 +7716,7 @@
 9022,MC Robotics
 9023,Future Martians
 9024,Callister
-9025,Chameleon's Eye
+9025,Mechameleons
 9026,Aero
 9027,PATH to Domination
 9028,GFORCE
@@ -7761,7 +7766,7 @@
 9072,TigerBots
 9073,Skol Robotics
 9074,Roboant
-9075,Lunar Robotics
+9075,Wapakoneta High School (WHS) Robotics
 9076,Villaciraptors
 9077,The Crown
 9078,GOOSE
@@ -7807,7 +7812,7 @@
 9118,Pb-ers Laguna - Peñoles
 9119,Iron Legends
 9120,Silverbot - Fresnillo PLC
-9121,Wild W.E.S.T.
+9121,Mavericks
 9122,Prepa Tecmilenio - Iron Hawks
 9123,Salesian Ironmen
 9124,GESTO ROBOTIC TEAM
@@ -7842,8 +7847,8 @@
 9153,Bearcat Robotics
 9154,MOSTEMRobotics
 9155,New Tech Kraken
-9156,Trojan Robotics
-9157,Iconic Polars
+9156,Trojan Robotics - The Blacksmiths of Troy
+9157,Iconic Panthers
 9158,AieaBots
 9159,SHAGO ROBOTICS TEAM
 9160,YAL THUNDERS
@@ -7858,9 +7863,9 @@
 9169,AGROTECH
 9170,Angels of God
 9171,ElektRobot
-9172,Robo-sharks
+9172,Robo-Sharks
 9173,STEAMoros
-9174,ANTIOCH
+9174,ROBOKIRAC
 9175,BrainMachine-FRC
 9176,Greenspire Steel Sturgeons
 9177,Spartan Sprockets
@@ -7880,7 +7885,7 @@
 9191,My Chemical Robots
 9192,Technodogs
 9193,Kennedy
-9194,KSS Robotics
+9194,Gemin√-1s
 9195,Team ProdiXy
 9196,FERRÃO DE ARRAIA
 9197,Wixom Warriors
@@ -7890,15 +7895,15 @@
 9201,TEAM FORCE
 9202,Silicon Valley Technos
 9203,Quake
-9204,Hidden Treasures
+9204,Aluminum Armada
 9205,Technical Marauders1
 9206,GRP Titans
 9207,Redneck Robotics
 9208,Eddies Circuit
-9209,Fantastic Falcons
+9209,Falcon Force
 9210,Fighting Falcons
 9211,ACCE Underdogs
-9212,BullDog
+9212,Infinity Dogs
 9213,TECUANI
 9214,The Roadsters
 9215,T-Town Tech
@@ -7909,11 +7914,11 @@
 9220,Geekos
 9221,Ertuğrul Gazi Anatolian High School Robotic Team
 9222,Eaglebots
-9223,Newaygo Lions
+9223,Brick and Mortar
 9224,Hazel Park Advantage
 9225,Evart Wildcats
 9226,GR Pioneers
-9227,Gladwin Flying G's
+9227,Backwoods Bots
 9228,The Cougar Coders
 9229,Fapatech Lab
 9230,BALta
@@ -7933,9 +7938,9 @@
 9244,Belize IT
 9245,Laker Dreadnoughts
 9246,Cut Twice Measure Once
-9247,Saintech Robotics
+9247,SainTech Robotics
 9248,Orchard View Cyber Cardinals
-9249,Chassell Mountain Cats
+9249,Copper Country Cats
 9250,William D. Ford Career Technical Center
 9251,Spartan Robotics
 9252,Wingspan
@@ -7948,7 +7953,7 @@
 9259,WAATBOTS
 9260,Built4Bibb Robotics
 9261,Under Pressure
-9262,Humberside Huskies 1
+9262,Humberside Huskies
 9263,ALD Lions
 9264,HUNTERS
 9265,KOSOVA ROBOTICS
@@ -7973,7 +7978,7 @@
 9286,The Oaker Association
 9287,Bionic Bengals
 9289,Vikings
-9292,Zen Maker Robotics - Shipyards
+9292,Zen Maker Robotics
 9293,Caffeinated
 9295,Harlem Rails
 9296,TITANium
@@ -7981,7 +7986,7 @@
 9298,Greeni3s
 9299,R0b0t B0bcats
 9300,Olympians
-9301,PrepaTec Chihuahua- MechRams
+9301,PrepaTec Chihuahua - MechRams
 9302,Northstar
 9303,PO®️TAL
 9304,legend's
@@ -8009,17 +8014,20 @@
 9408,Warbots
 9409,Caelum
 9410,PowerHouse
-9411,KeyBot
+9411,Rhapsodia mechanicus
 9414,RAMS Robotics
-9416,Untitled Philadelphia Robotics Team
+9415,The Westinghouse Bot-Dogs
+9416,I.Θ.W.A.
 9418,Pastabots
-9419,Team Steel Stallions
+9419,Team Vulcan
+9421,Carmel Robotics
 9422,Team Forza
+9423,SL Robotics
 9424,EOCHS Robotics Team
 9425,Intra Milwaukee
 9426,Galena CLAWBOTICS
 9427,IDeer
-9428,Springfield Robotics
+9428,"Springfield Robotics ""The Cashew Chickens"""
 9429,NEACTC Tech Titans
 9430,CTEC Robotics
 9431,Snider Panthers
@@ -8028,9 +8036,9 @@
 9434,Mehmet Günenç Robotics
 9435,Pure Imagination 2.0
 9436,Pointr Giro
-9437,Uncommon Collegiate Charter
-9438,Leopard Robotics
-9439,North Star Academy
+9437,Cosmonauts
+9438,Leopard Tech
+9439,Knights of Polaris
 9440,Bolts&Nuts
 9441,Arcura
 9442,Miso Mechanics
@@ -8048,14 +8056,14 @@
 9454,HİTİT GRİFFİN ROBOTİCS TEAM
 9455,STEAM Syndicate FRC
 9456,Nunez Robotics
-9457,X Studio
+9457,Matronic Circuits
 9458,SESI SENAI JACTECH
 9459,SESI SENAI RPRT HAWKS
-9460,SESI SENAI BULLS STEEL
+9460,SESI SENAI STEEL BULLS
 9461,SESI SENAI MecaChronos
 9462,Toefur's Titans
 9463,Cougar Robotics
-9464,Attila Robotics
+9464,Başakşehir Robotics
 9465,Imagine Dragons
 9466,Static
 9467,ÇeViK
@@ -8063,14 +8071,14 @@
 9469,LUMOS ROBOTICS
 9470,Ctl Alt Defeat
 9471,EF Academy
-9472,K2C Tribe Robotics
+9472,K2C Robotics
 9473,CYGNUS ROBOTICS
-9474,Red River Resistance
+9474,3R (Red River Resistance)
 9475,Mon Valley Mammoths 4
 9476,BCHS CYBER TIGERS
 9477,Lambert Robotics
 9478,Robo-Colts
-9479,Axolotl Robotics
+9479,CREDENTIS
 9480,Gear Bears
 9481,STEAMCo - All Star
 9482,STEAMCo - Imagina
@@ -8104,17 +8112,17 @@
 9510,Medusa
 9511,West Noble 1
 9512,Horsepower
-9513,Caterpillar Circuit Crew
+9513,Circuit Crew 9513 - Caterpillar
 9514,Blanson P-TECH/Gryphon Technik
 9515,Carver P-TECH/Gryphon Technik
-9516,Davis HS/Gryphon Technik
+9516,Davis HS/Falcon Furious
 9517,Eisenhower HS/Gryphon Technik
 9518,STEAMex Scorpions
-9519,TechWave
-9520,FVHS Barons 2024
+9519,MINERVA ROBOTICS
+9520,Rock-it Robotics
 9521,Humble Rumble
-9522,B.O.R.E.D.
-9523,WolfTech
+9522,Archimedes
+9523,Archers
 9524,SHS Cardinal Chaos
 9525,CR-IT NileTech
 9526,LCG Robotics
@@ -8122,10 +8130,10 @@
 9528,The Wolf Pack
 9529,GOKARGETRONIC
 9530,Adams 23
-9531,CV Robotics 2
-9532,Kinetic Colliders
+9531,Ctrl V
+9532,Messy Bees
 9533,Melissa High School
-9534,Basic HS
+9534,Wolves Robotics (Basic HS)
 9535,The Knack
 9536,ETERNAL ROBOTİCS
 9537,SCDS1
@@ -8139,9 +8147,9 @@
 9545,CARACAL ROBOTICS
 9546,Techno Leopards
 9547,Lotus
-9548,Bark River Blowtorches
-9549,The Covert Bulldogs
-9550,KSS Owls
+9548,NASA Bark River Bronconaughts
+9549,The Mechadogs
+9550,KSS STRIX Robotics
 9551,Tiger
 9552,Rambotics
 9553,NEO42
@@ -8158,48 +8166,50 @@
 9564,Taishan Robotics
 9565,CEZERİ
 9566,Red Storm Rookies
-9567,Blue Thunder
+9567,StormBreakers
 9568,Leland Comets
 9569,Milliken Mills Silver Knights
 9570,EH Pirates
-9571,PVHS Coders
-9572,CC Shambits
+9571,Patriot Prime
+9572,CC Shambytes
 9573,MMHS
 9574,Rock Bots
 9575,Silver Robotics
 9576,Loretto Lightning
 9577,Recoil
-9578,PREBLE HIGH SCHOOL - NAME TBD
-9579,Green Devils
+9578,Player One
+9579,Tech Devils
 9580,#ChangeTheNow
 9581,Bad Wolf 1
-9582,Snaggbotic
+9582,HHS NASA Snaggbotics
 9583,Lavender Robotics
-9584,Spartan2
+9584,Spartan Squared
 9585,RobUL
 9586,Anglebotics
 9587,STEMgc
-9588,RoboScience
-9589,Mustangs
+9588,.
+9589,MCS Innovators
 9590,Bison Tech
 9591,DESTAN
 9592,Timmins Blues
-9593,White Rhino
+9593,White Rhinos
 9594,Ashley  Bears
 9595,ECHO
 9596,Eureka
 9597,Luban Robotics
-9598,Trailblazer
+9598,Flint
 9599,Colorful Panda
 9600,X-Flare Robotics
+9601,BageTech
 9602,CANINTECH
-9603,SENAI PORTO 01
-9604,SENAI PORTO 02
+9603,MTECH
+9604,TUIUTECH
 9605,West Wilkes High School
 9606,Beastbots
-9607,RJR Robo Demons
-9608,Central Arkansas Christian School
-9610,ÇALTECH
+9607,RJR Cyber Demons
+9608,Power Ponies
+9609,Paraducks
+9610,Blue Ivy
 9611,SESI SENAI SC CyberRain
 9612,Bosse Bulldogs
 9613,Kennewick
@@ -8207,15 +8217,15 @@
 9615,Redlands Robotics
 9616,Keira High School
 9617,Metal Knight
-9618,Monarchs
+9618,Tronarchs
 9619,U.FRC.
-9620,Cephalopod Crusaders
-9621,Bender & His Mates
+9620,Eltynien
+9621,Payload
 9622,GRIDLOCK
 9623,U-Turn
 9624,Dynamiques Collège Charles-Lemoyne
 9625,WOLFS ROBOTICS
-9626,JagWire Robotics
+9626,JagWire Robotics - NASA
 9627,Yellow Haze
 9628,Erdem Robotics Team
 9629,Hibana Technology
@@ -8223,14 +8233,157 @@
 9631,Chargers
 9632,Red M00n
 9633,Pine Bluff City Robotics
-9634,Litterbots
+9634,South Bay Robotics
 9635,Cyber Rabbit
 9636,West End Secondary School
 9637,Grammar Gurus
-9638,Gobles Tigers
+9638,"Tigers, Bro"
 9639,Sibley-Ocheyedan
 9640,Markhors
-9641,Robotic71
+9641,Robotics71
+9642,I.N.T. Robotics
+9643,Lady VOLTAGE
+9644,NEIA Robotics
+9645,POC
+9646,The Marinators
+9647,Ladybug
+9648,Tigers Robotics
+9649,Mulgrave Robotics
+9650,Mio-Ausable Thunderbots
+9651,Ecorse Robo Raiders
+9652,Team Gambia
+9653,O.V.R.T (Ohio Valley Robotics Team)
+9654,Kelly Trojans
+9655,Shallowater Robotics
+9656,X-Ray Robotics
+9657,SESI SENAI BATROBOT
+9658,Camber
+9659,Vanier Vikings
+9660,Delgado Community College Dolphin Robotics
+9661,Huskie STEAM
+9662,Valley Lutheran High School Chargers
+9663,Team Bosch
+9664,Boogie Bots
+9665,Vanderbilt Area Schools
+9666,AAE Knights
+9667,ITEM # 9667 Independent Team of Engineers that Meet
+9668,West Robotics
+9669,Regina Riveters
+9670,The 4-H NASA Gadgeteers of St. Johns County
+9671,Godwin Heights Robotics
+9672,Colon Magi Robotics
+9673,Ithaca YellowJackets
+9674,Trojan Power Robotics
+9675,COLOSSUS
+9676,Hub City STEAM
+9677,Electric Calamari
+9678,VMD Initiative
+9679,Madison Eagles
+9680,SIA Phoenix Rising
+9681,Shark Robotics
+9682,(un)Kn0wledgeables
+9683,Equipe SESI-SENAI - Cacoal
+9684,Cardozo Unstoppable 2024
+9685,Astro Pandas
+9686,Gwinn Modeltowners
+9687,NEX-TECH
+9688,Moltimun
+9689,Haycar
+9690,Defuse Robotics
+9691,TOBB_BİLSEM
+9692,Sigma
+9693,Miami Dade College Sharkbotz
+9694,TUBITECH
+9695,BAYKAR Robotics
+9696,Hami NASA_Yankatrons
+9697,Bionic Bucs
+9698,Boys & Girls Clubs of Northeast Florida Robotics Team
+9699,Bayou STEM
+9700,YMCABattleJacks
+9701,Crosswired Robotics
+9702,Nexus Robotics
+9703,Q_Bots
+9704,igKnighted
+9705,EastRamapo
+9706,R^3   (Redwood Ranger Robotics)
+9707,River Mill Academy
+9708,SciPort NASA FRC
+9709,Isotope
+9710,Discovery PolyBotz
+9711,TCA Robotics
+9712,Team Iron Sharks
+9713,The Martins
+9714,High Altitude
+9715,International School Manila
+9716,IT Kids Robotics
+9717,Scott County Robotics
+9718,Wookie Mistakes
+9719,ThunderTech
+9720,St. Pete Strong
+9721,Redhawk Robotics
+9722,Burt Township Robotics
+9723,STEAMex Katatronik
+9724,TBD
+9725,young law
+9726,Notus Pirates
+9727,Warrior Robotics
+9728,BGCCF Joe R Lee Branch
+9729,Knights
+9730,Metal Maniacs
+9731,All Saints Cougars
+9732,The Rainbow Junkyard
+9733,Gold Diggers
+9734,Jasper County Robotics
+9735,Electric Dragons
+9736,Tawas Braves
+9737,One Stone Innovators
+9738,Ionic Bond
+9739,Firefly
+9740,CAN://Bus
+9741,STORM
+9742,Walkerville Wildcats
+9743,Maple Valley Lions
+9744,Breithaupt Bulldogs
+9745,Minnewaska Area Robotics
+9746,Pickford High School Panthers
+9747,Center Line High School Panthers
+9748,Ann Arbor Academy Blue Herons
+9749,Arbor Prep Gators
+9750,ED Robotics
+9751,OIA Panthers
+9752,ITKAN Robotics Jr
+9753,Team Success
+9754,Vestaburg Wolverine
+9755,Luther L. Wright High School
+9756,Robo Panthers
+9757,Marlette Jr/Sr High School
+9758,Panther Bots
+9759,Forge of Falcon
+9760,Cristo Rey Jesuit Trailblazers
+9761,LSMSA Robotics
+9762,Chatham Charter School
+9763,Cast Iron Clippers
+9764,Maritime Marauders
+9765,LCS Cougars
+9766,Northridge Vikings
+9767,Magnificat Blue Streaks
+9768,ROBOKNIGHTS
+9769,Toronto Prep
+9770,Victory Church of Christ Robo Knights
+9771,Frankfort Panthers
+9772,Titans Robotics
+9773,Wakefield - Marenisco
+9775,Ravens
+9776,GA Robotics
+9777,Knights of the Lab Table
+9778,Horizon Hawks Robotics
+9779,Gladiator Robotics
+9780,Accelerated Learning Academy
+9781,Northgate High School Robotics Club
+9782,Wextech Titans
+9783,Steppe Steppers
+9784,Cyberbots
+9785,CSAA
 9980,Off-Season Demo Team
 9981,Off-Season Demo Team
 9982,Off-Season Demo Team
