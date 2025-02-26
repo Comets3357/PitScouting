@@ -21,11 +21,17 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 
+import com.example.pitscoutingapp2023.common.PostDataResponse;
 import com.example.pitscoutingapp2023.common.Team;
 import com.example.pitscoutingapp2023.common.TeamPitScout;
+import com.example.pitscoutingapp2023.dao.ScoutingDataServerRestDao;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import retrofit2.Call;
+import retrofit2.Callback;
+import retrofit2.Response;
 
 public class SettingsActivity extends AppCompatActivity {
 
@@ -34,7 +40,9 @@ public class SettingsActivity extends AppCompatActivity {
     Button saveEventKeyButton;
     Button editActiveTeamButton;
     Button clearEventButton;
+    Button sendDataOverWifiButton;
     EditText eventKeyEditText;
+    EditText ipAddressEditText;
     TextView teamNameTextView;
     TextView drivetrainTextView;
     TextView programmingLanguageTextView;
@@ -59,6 +67,7 @@ public class SettingsActivity extends AppCompatActivity {
         this.drivetrainTextView = findViewById(R.id.drivetrainTextView);
         this.programmingLanguageTextView = findViewById(R.id.programmingLanguageTextView);
         this.teamNameTextView = findViewById(R.id.teamNameTextView);
+        this.ipAddressEditText = findViewById(R.id.editTextIP);
 
         returnToScoutingButton = (Button) findViewById(R.id.returnToScoutingButton);
 
@@ -109,6 +118,14 @@ public class SettingsActivity extends AppCompatActivity {
         if (this.teams.getAdapter().getCount() > 0) {
             setTeamInfo();
         }
+
+        this.sendDataOverWifiButton = (Button) findViewById(R.id.buttonWifiTransfer);
+        this.sendDataOverWifiButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                sendDataToServer();
+            }
+        });
      }
 
     public void openQRCode() {
@@ -219,5 +236,27 @@ public class SettingsActivity extends AppCompatActivity {
                     }
                 });
         builder.create().show();
+    }
+    public void sendDataToServer() {
+        List<TeamPitScout> scoutedData = this.db.teamPitScoutDao().getAllTeams(this.db.activeEventKeyDao().getActiveEventKey());
+        ScoutingDataServerRestDao.getApiInterface("http://"+this.ipAddressEditText.getText().toString()+":5000").sendDataToServer(scoutedData)
+                .enqueue(new Callback<PostDataResponse>() {
+                    @Override
+                    public void onResponse(Call<PostDataResponse> call, Response<PostDataResponse> response) {
+                        if (response.body() != null){
+                            Log.d("TAG","Successful data send");
+                            Toast.makeText(getApplicationContext(),"Successfully sent data to server",Toast.LENGTH_LONG).show();
+                        } else {
+                            Log.d("TAG","Failure");
+                            Toast.makeText(getApplicationContext(),"Error",Toast.LENGTH_LONG).show();
+                        }
+                    }
+
+                    @Override
+                    public void onFailure(Call<PostDataResponse> call, Throwable t) {
+                        Log.d("TAG","Failure :-"+t.getMessage());
+                        Toast.makeText(getApplicationContext(),"ERROR "+t.getMessage(),Toast.LENGTH_LONG).show();
+                    }
+                });
     }
 }
