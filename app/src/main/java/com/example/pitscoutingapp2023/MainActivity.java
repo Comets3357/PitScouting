@@ -181,7 +181,7 @@ public class MainActivity extends AppCompatActivity {
             while(sc.hasNextLine()) {
                 Team team = new Team();
                 String[] vals = sc.nextLine().split(",");
-                if (vals.length >= 2) {
+                if (vals.length >= 2 && db.teamDao().teamExists(vals[0]) == 0) {
                     team.teamNumber = vals[0];
                     team.teamName = vals[1];
                     db.teamDao().insertAll(team);
